@@ -16,4 +16,4 @@ O site inclui:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/R3H02/Dugil_Gril.git
+   git clone https://r3h02.github.io/Dugil_Gril/
